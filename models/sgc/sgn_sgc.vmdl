@@ -1,0 +1,178 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "gat"
+						filename = "models/sgc/sgn_sgc.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"SM_SMP_NarrowCorridor",
+								"SM_LTH_Wall_WC_001",
+								"SM_LTH_Wall_Default",
+								"SM_LTH_Wall_Default_001",
+								"SM_LTH_Wall_Default_002",
+								"SM_LTH_Wall_Default_003",
+								"SM_LTH_MaxClearance8_BlastDoor",
+								"SM_LTH_Wall_Default_004",
+								"SM_LTH_Ceiling_02",
+								"SM_LTH_MaxClearance8_Beam",
+								"SM_LTH_MaxClearance8_Beam_001",
+								"SM_LTH_Wall_RelayCenter_001",
+								"SM_LTH_Wall_Default_006",
+								"SM_LTH_Wall_Default_007",
+								"SM_LTH_Wall_Default_008",
+								"SM_LTH_Wall_Default_009",
+								"SM_LTH_Wall_Default_010",
+								"SM_LTH_Wall_Default_011",
+								"SM_LTH_Wall_Default_012",
+								"SM_LTH_Wall_Default_013",
+								"SM_LTH_Wall_Default_014",
+								"SM_LTH_Wall_Default_017",
+								"SM_LTH_Wall_Default_018",
+								"SM_LTH_Wall_BlastDoor_003",
+								"SM_LTH_Wall_BlastDoor_004",
+								"SM_LTH_Wall_Default_019",
+								"SM_LTH_Wall_Default_020",
+								"SM_LTH_Wall_Default_021",
+								"SM_LTH_MaxClearance12",
+								"SM_LTH_Wall_Default_022",
+								"SM_LTH_Wall_Angle_01_001",
+								"SM_LTH_Wall_Default_023",
+								"SM_LTH_MaxClearance12_001",
+								"SM_LTH_MaxClearance12_002",
+								"SM_LTH_MaxClearance12_003",
+								"SM_LTH_MaxClearance12_005",
+								"SM_LTH_MaxClearance12_006",
+								"SM_LTH_MaxClearance12_007",
+								"SM_LTH_MaxClearance12_BlastDoor",
+								"SM_LTH_MaxClearance8_BlastDoor_001",
+								"SM_LTH_Wall_Default_028",
+								"SM_LTH_Armory",
+								"SM_LTH_Wall_Entrance_02",
+								"SM_LTH_Wall_WC",
+								"SM_LTH_Wall_Armory",
+								"SM_LTH_Walls_Round",
+								"SM_LTH_BroomCloset",
+								"SM_RH_Hall",
+								"SM_RH_Corridor_A",
+								"SM_RH_Wall_Elevator_01",
+								"SM_RH_Wall_BlastDoor",
+								"SM_RH_Corridor_A_001",
+								"SM_RH_Ring_Beam",
+								"SM_RH_Corridor_B_001",
+								"SM_RH_CorridorT_A_002",
+								"SM_RH_Ring_Beam_001",
+								"SM_RH_Ring_Beam_002",
+								"SM_RH_Ring_D",
+								"SM_RH_Corridor_A_002",
+								"SM_RH_Corner_L",
+								"SM_RH_Corner_R",
+								"SM_RH_Ring_A_001",
+								"SM_RH_Corner_L_001",
+								"SM_RH_Ring_A_002",
+								"SM_RH_Ring_C_001",
+								"SM_RH_Ring_A_003",
+								"SM_RH_Ring_A_004",
+								"SM_RH_Ring_A_005",
+								"SM_RH_Ring_A_007",
+								"SM_RH_Ring_A_011",
+								"SM_RH_Ring_A_006",
+								"SM_RH_Ring_A_012",
+								"SM_RH_Ring_A_014",
+								"SM_RH_Ring_A_013",
+								"SM_RH_Corner_L_002",
+								"SM_RH_Ring_Beam_003",
+								"SM_RH_Ring_Beam_005",
+								"SM_RH_Corridor_A_003",
+								"SM_RH_Ring_Beam_004",
+								"SM_RH_Corner_L_003",
+								"SM_RH_Corner_R_002",
+								"SM_RH_Ring_A_015",
+								"SM_RH_Ring_A_016",
+								"SM_RH_Ring_A_017",
+								"SM_RH_Ring_A_018",
+								"SM_RH_Ring_A_019",
+								"SM_RH_Corner_L_004",
+								"SM_RH_ElevatorHall",
+								"SM_RH_Corner_L_005",
+								"SM_LR_SmallRoom",
+								"SM_LR_Entrance_Framework",
+								"SM_LR_SimpleDoor",
+								"SM_LR_Entrance_Framework_001",
+								"SM_LR_Angle_01",
+								"SM_LR_Column_Whole_001",
+								"SM_LR_Angle_01_001",
+								"SM_LR_Column_Whole_002",
+								"SM_LR_Angle_01_002",
+								"SM_LR_Column_Whole_003",
+								"SM_LR_Angle_01_003",
+								"SM_LR_Column_Whole_004",
+								"SM_LR_Column_Whole_005",
+								"SM_LR_Wall_BlastDoor",
+								"SM_LR_Wall_01",
+								"SM_LR_Wall_01_001",
+								"SM_LR_Column_Whole_007",
+								"SM_LR_Column_Whole_008",
+								"SM_MF1_Ceiling",
+								"SM_MF1_Column_Windows_001",
+								"SM_MF1_Column_Windows",
+								"SM_MF1_Wall_BlastDoor_framework_002",
+								"SM_MF1_Wall_Medium",
+								"SM_MF1_Wall_Medium_001",
+								"SM_MF1_Wall_BlastDoor_002",
+								"SM_MF1_Wall_Long",
+								"SM_MF1_Wall_BlastDoor_framework",
+								"SM_MF1_Wall_BlastDoor",
+								"SM_MF2_Ceiling",
+								"SM_MF1_MF2_Wall_Windows",
+								"SM_MF2_LongTable",
+								"SM_MF2_Floor",
+								"SM_MF2_Walls_Global",
+								"SM_LTH_Walls_CR",
+								"SM_WarRoom",
+								"SM_LH_ElevatorShaft",
+								"SM_LH_Walls_Entrance",
+								"SM_LH_Ceiling",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "materials/generic/concrete_simple.vmat"
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
