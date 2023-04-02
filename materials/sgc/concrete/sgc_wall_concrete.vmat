@@ -2,20 +2,20 @@
 
 Layer0
 {
-	shader "complex.shader"
+	shader "shaders/complex.shader_c"
 
 	//---- PBR ----
 	F_SPECULAR 1
 
 	//---- Ambient Occlusion ----
-	g_flAmbientOcclusionDirectDiffuse "0.000"
+	g_flAmbientOcclusionDirectDiffuse "0.500"
 	g_flAmbientOcclusionDirectSpecular "0.000"
 	TextureAmbientOcclusion "materials/sgc/concrete/sgc_concrete_simple_ao.png"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
-	g_vColorTint "[0.901961 0.890196 0.807843 0.000000]"
-	TextureColor "materials/sgc/concrete/sgc_concrete_simple_color.png"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	TextureColor "materials/sgc/concrete/sgc_concrete_simple_smooth_2_color.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
