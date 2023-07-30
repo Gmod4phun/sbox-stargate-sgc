@@ -1,5 +1,52 @@
 {
-  "cloud_packages": [],
-  "game_packages": [],
-  "addon_packages": []
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "sg_sgc",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "sg_sgc",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.office_chair#18219",
+        "facepunch.carpet_a#18621",
+        "facepunch.concrete_glossy#18629",
+        "facepunch.metal_painted_black_b_hs#18372",
+        "facepunch.metal_painted_grey_a_hs#18377",
+        "facepunch.metal_painted_black_a_hs#18371",
+        "facepunch.ceiling_halogen#19189",
+        "facepunch.w_usp#17493",
+        "facepunch.v_toolgun#24412",
+        "facepunch.dirtpile_crn_01#24311",
+        "facepunch.tree_oak_small_a#19396",
+        "facepunch.floor_grass_a#18648",
+        "facepunch.dirtpile_strt_03#24344",
+        "facepunch.dirtpile_strt_01#24342",
+        "facepunch.dirtpile_strt_02#24343",
+        "facepunch.dirtpile_crn_02#24312",
+        "facepunch.dirtpile_crn_03#24339",
+        "facepunch.leaves_strt_a4#18240",
+        "facepunch.leaves_strt_a2#18238",
+        "facepunch.leafscattercrna2#18230",
+        "facepunch.leaves_pile_a6#18236",
+        "facepunch.leaves_pile_a2#18232",
+        "facepunch.leaves_fall_01#19406",
+        "katka.sbox_stargate",
+        "facepunch.metal_brushed#18749",
+        "facepunch.v_toolgun#24866"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/sg_sgc.vmap"
+      }
+    }
+  }
 }

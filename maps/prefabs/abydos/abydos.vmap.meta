@@ -1,0 +1,34 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "abydos",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "abydos",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.v_toolgun#24866",
+        "facepunch.wall_limestone_brick_large#18706",
+        "facepunch.floor_gravel_sand_a#18656",
+        "thefirm.sand_beach#26152",
+        "facepunch.concrete_b_hs#18360",
+        "pilgrim.sandstone#10322",
+        "facepunch.concrete_a_hs#18357",
+        "katka.sbox_stargate"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/abydos/abydos.vmap"
+      }
+    }
+  }
+}

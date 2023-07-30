@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "abydos_gateroom_ramp",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "abydos_gateroom_ramp",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.v_toolgun#24866"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/abydos/abydos_gateroom_ramp.vmap"
+      }
+    }
+  }
+}
