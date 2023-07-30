@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "sg_abydos",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "sg_abydos",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.concrete_a_hs#18357",
+        "facepunch.v_toolgun#24866",
+        "pilgrim.sandstone#10322",
+        "thefirm.sand_beach#26152",
+        "katka.sbox_stargate"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/sg_abydos.vmap"
+      }
+    }
+  }
+}
