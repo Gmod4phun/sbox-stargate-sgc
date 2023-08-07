@@ -21,7 +21,24 @@
         "facepunch.v_toolgun#24866",
         "pilgrim.sandstone#10322",
         "thefirm.sand_beach#26152",
-        "katka.sbox_stargate"
+        "katka.sbox_stargate",
+        "facepunch.concrete_b_hs#18360",
+        "sugmagaming.fireparticle#19112",
+        "facepunch.dirtpile_04#24314",
+        "facepunch.dirtpile_01#24305",
+        "facepunch.dirtpile_05#24315",
+        "facepunch.dirtpile_strt_01#24342",
+        "facepunch.dirtpile_strt_03#24344",
+        "facepunch.dirtpile_crn_02#24312",
+        "facepunch.dirtpile_strt_02#24343",
+        "facepunch.tarp_dirty_01#17448",
+        "facepunch.v_toolgun#28864",
+        "facepunch.concrete_b_hs#28971",
+        "facepunch.tarp_dirty_01#28957",
+        "facepunch.concrete_a_hs#28938",
+        "thefirm.desertsand#23488",
+        "facepunch.stone_trim_2_64#28990",
+        "facepunch.stone_trim_2_crn_64#28991"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/sg_abydos.vmap"
